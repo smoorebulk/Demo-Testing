@@ -60,20 +60,13 @@ iframe {
 .bulk-logo {
   width: 20%;
 }
-.konecrane-e-ver {
-  border: 4px double #444642;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 .bulk-equip-bg {
   background-color: #1b1b1b;
 }
 .konecrane-bg {
   background-color: #199597;
 }
-.the-bulk-difference {
+.expandable-items {
   border: 4px double #444642;
   display: block;
   margin-left: auto;
